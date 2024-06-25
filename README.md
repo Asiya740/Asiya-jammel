@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ASIYA JAMEEL
 - 👀 I’m interested in  Learning NEW THINGS 
-- 🌱 I’m currently learning ... JS , REACT , NEXT.JS , PYTHON
+- 🌱 I’m currently learning ... JS , Microservices , REACT , NEXT.JS , PYTHON  , AWS , could computing 
 - 📫 How to reach me ...  DON'T  REACH ME...!
 - ⚡ Fun fact: ... ABOUT ME IT'S i would love to read and explore history like islamic history, & ( reading quran with tajweed and tarjuma),
 
