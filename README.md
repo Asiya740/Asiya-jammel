@@ -2,7 +2,7 @@
 - 👀 I’m interested in  Learning NEW THINGS 
 - 🌱 I’m currently learning ... JS , REACT , NEXT.JS , PYTHON
 - 📫 How to reach me ...  DON'T  REACH ME...!
-- 😄 Pronouns: ... ENGLISH, URDU
+- 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ... ABOUT ME IT'S i would love to read and explore history like islamic history, & ( reading quran with tajweed and tarjuma),
 
 <!---
