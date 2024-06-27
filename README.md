@@ -1,8 +1,7 @@
 - 👋 Hi, I’m ASIYA JAMEEL
 - 👀 I’m interested in  Learning NEW THINGS 
 - 🌱 I’m currently learning ... JS , Microservices , REACT , NEXT.JS , PYTHON  , AWS , could computing 
-- 📫 How to reach me ...  DON'T  REACH ME...!
-- ⚡ Fun fact: ... ABOUT ME IT'S i would love to read and explore history like islamic history, & ( reading quran with tajweed and tarjuma),
+
 
 <!---
 Asiya-jammel/Asiya-jammel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
