@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ASIYA JAMEEL
 - 👀 I’m interested in  Learning NEW THINGS 
-- 🌱 I’m currently learning ... JS , Microservices , REACT , NEXT.JS , PYTHON  , AWS , could computing 
+- 🌱 I’m currently learning ... JS , Microservices , REACT , NEXT.JS , PYTHON  , AWS.
 
 
 <!---
